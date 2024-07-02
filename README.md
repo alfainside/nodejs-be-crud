@@ -8,9 +8,8 @@ $ npm install
 # development
 $ npm run start
 
-
-# Test
 ```bash
+# test
 $ npm run test
 
 # Tech Stack
