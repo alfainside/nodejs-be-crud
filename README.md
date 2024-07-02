@@ -7,9 +7,7 @@ $ npm install
 ```bash
 # development
 $ npm run start
-
-```bash
-$ npm run test
+```
 
 # Tech Stack
 - Nodejs
