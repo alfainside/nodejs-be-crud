@@ -9,13 +9,11 @@ $ npm install
 $ npm run start
 
 
-## Test
-
+# Test
 ```bash
-# unit tests
 $ npm run test
 
-## Tech Stack
+# Tech Stack
 - Nodejs
 - Mysql
 - Sequelize
