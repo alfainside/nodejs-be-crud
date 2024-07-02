@@ -9,7 +9,6 @@ $ npm install
 $ npm run start
 
 ```bash
-# test
 $ npm run test
 
 # Tech Stack
